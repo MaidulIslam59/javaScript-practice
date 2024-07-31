@@ -18,3 +18,4 @@ console.log(price3Number);
 console.log(price2Number);
 console.log(totalPrice);
 console.log(price);
+
