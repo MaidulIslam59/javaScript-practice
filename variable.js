@@ -10,3 +10,7 @@ var name = "maidul rifat";
 var isSingle = false;
 var serious = true;
 
+var studentAge = 24;
+var employeeName = rifat;
+
+//
